@@ -29,4 +29,4 @@ The course, taught by Randy Davil, covers various machine learning algorithms in
 2. Machine Learning with Python for Everyone, Addison Wesley Data & Analytics Series, 2020 Pearson Education, by Mark E. Fenner
 
 ## Data
-The data utilized in the algorithms presented here are sourced from publicly available databases, including [Kaggle](https://www.kaggle.com/), [UCI Machine Learning Repository] (https://archive.ics.uci.edu/ml/index.php), and others. Additionally, in some instances, numerical data may be generated randomly as required within the code.
+The data utilized in the algorithms presented here are sourced from publicly available databases, including [Kaggle](https://www.kaggle.com/), [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php), and others. Additionally, in some instances, numerical data may be generated randomly as required within the code.
